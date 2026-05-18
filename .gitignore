@@ -1,0 +1,7 @@
+.env
+quickchat.db
+node_modules/
+*.db
+*.db-wal
+*.db-shm
+
